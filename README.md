@@ -2,7 +2,7 @@
 
 1.This is a static web content project
 
-2.Clone it  your Directory using the clone link of te repository page
+2.Clone it  your Directory using the clone link of te repository page (https://github.com/deepakr6242/kav_cd.git)
 
 
 3.Download Eclipse which should supporrt building the web application development
