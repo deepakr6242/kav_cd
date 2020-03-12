@@ -2,6 +2,8 @@
 
 1.This is a static web content project
 
+2.Adding somethng
+
 2.Clone it  your Directory using the clone link of te repository page (https://github.com/deepakr6242/kav_cd.git)
 
 
